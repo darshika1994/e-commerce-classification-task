@@ -1,0 +1,2 @@
+# e-commerce-classification-task
+It is an e-commerce dataset where each record is a combination of some user 'u' &amp; some item 'i' &amp; the task is to predict if user 'u' will buy item 'i' or not.     There are various features in the dataset but  don't know which feature is what hence, they are just labelled F1, F2, .., F22. There are 2 files named, BuyAffinity_Train &amp; BuyAffinity_Test. The train file has the label for the data points &amp; the test file needs to be labelled based on predictions.   
